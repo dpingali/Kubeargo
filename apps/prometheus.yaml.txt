@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<your-username>/Prometheus.git
+    repoURL: https://github.com/dpingali/Kubeargo.git
     targetRevision: HEAD
     path: base/prometheus
   destination:
